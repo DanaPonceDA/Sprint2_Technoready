@@ -1,3 +1,7 @@
+Dana Elizabeth Ponce del Angel. 
+Modificación: 09 de Septiembre. 
+Actualización en el archivo de la nueva rama. 
+
 # TensorFlow is much easier to install using Anaconda, especially
 # on Windows or when using a GPU. Please see the installation
 # instructions in INSTALL.md
